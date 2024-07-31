@@ -21,6 +21,7 @@ Learn about the different data types and how to use variables in Python.
   - [List Example](variables-and-data-types/list_example.py)
   - [Tuple Example](variables-and-data-types/tuple_example.py)
   - [Dictionary Example](variables-and-data-types/dictionary_example.py)
+  - [Challenge 1](variables-and-data-types/challenge_1.py)
 
 <!-- ### Operators
 
