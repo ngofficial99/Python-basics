@@ -1,1 +1,57 @@
-"# Python-basics" 
+# Python Learning Resources
+
+Welcome to the Python Learning Resources repository! This repository is designed to help you learn Python through structured examples and challenges. Each folder focuses on a different topic in Python.
+
+## Table of Contents
+
+1. [Variables and Data Types](#variables-and-data-types)
+<!-- 2. [Operators](#operators)
+3. [Control Flow](#control-flow)
+4. [Challenge](#challenge) -->
+
+### Variables and Data Types
+
+Learn about the different data types and how to use variables in Python.
+
+- [Variables and Data Types](variables-and-data-types/README.md)
+  - [Integer Example](variables-and-data-types/integer_example.py)
+  - [Float Example](variables-and-data-types/float_example.py)
+  - [String Example](variables-and-data-types/string_example.py)
+  - [Boolean Example](variables-and-data-types/boolean_example.py)
+  - [List Example](variables-and-data-types/list_example.py)
+  - [Tuple Example](variables-and-data-types/tuple_example.py)
+  - [Dictionary Example](variables-and-data-types/dictionary_example.py)
+
+<!-- ### Operators
+
+Understand the various operators available in Python.
+
+- [Operators](operators/README.md)
+  - [Arithmetic Operators](operators/arithmetic_operators.py)
+  - [Comparison Operators](operators/comparison_operators.py)
+  - [Logical Operators](operators/logical_operators.py)
+  - [Assignment Operators](operators/assignment_operators.py)
+  - [Bitwise Operators](operators/bitwise_operators.py)
+
+### Control Flow
+
+Control the flow of your programs using different control flow statements.
+
+- [Control Flow](control-flow/README.md)
+  - [If Statements](control-flow/if_statements.py)
+  - [For Loops](control-flow/for_loops.py)
+  - [While Loops](control-flow/while_loops.py)
+  - [Match-Case](control-flow/match_case.py) -->
+
+### Challenge
+
+Test your knowledge with a coding challenge.
+
+- [Challenge](challenge/README.md)
+  - [Challenge Solution](challenge/challenge_solution.py)
+
+## Resources
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
