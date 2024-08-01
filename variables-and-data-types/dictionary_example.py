@@ -53,3 +53,43 @@ print(myself.values())
 
 # noth keys and values
 print(myself.items())
+
+#  We can also iterate over the key value pairs in a Dictionary
+
+for key, value in myself.items():
+    print(f"{key}: {value}")
+    
+    
+# Now we also have to option to create nedted Dictionary which will allow us to save something similar to JSON data structure
+
+employees = {
+    "employee_1" : { 
+                    "name" : "Hitesh",
+                    "emp_id" : "T1001",
+                    "email" : "Hitesh@workemail.com",
+                    "position" :"Frontend Developer"
+    },
+     "employee_2" : { 
+                    "name" : "Harry",
+                    "emp_id" : "T1002",
+                    "email" : "harry@workemail.com",
+                    "position" :"Backend Developer"
+    },
+      "employee_3" : { 
+                    "name" : "Philip",
+                    "emp_id" : "T1003",
+                    "email" : "Philip@workemail.com",
+                    "position" :"Fullstack Developer"
+    } 
+}
+
+# Now that we have stored values of multiple employees in the same dictionary we can all individual employee
+
+print(employees["employee_1"])
+print(employees["employee_2"])
+
+# Now lets say I want to print the email and name of employee 2 we can achive this by 
+employee_2 = employees["employee_2"]
+print("\nEmail and Name of employee_2:")
+print(f"Name: {employee_2['name']}")
+print(f"Email: {employee_2['email']}")
