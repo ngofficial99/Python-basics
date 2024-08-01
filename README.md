@@ -5,6 +5,7 @@ Welcome to the Python Learning Resources repository! This repository is designed
 ## Table of Contents
 
 1. [Variables and Data Types](#variables-and-data-types)
+2. [Strings, Splicing and Split](#strings-splicing-and-split)
 <!-- 2. [Operators](#operators)
 3. [Control Flow](#control-flow)
 4. [Challenge](#challenge) -->
@@ -22,6 +23,8 @@ Learn about the different data types and how to use variables in Python.
   - [Tuple Example](variables-and-data-types/tuple_example.py)
   - [Dictionary Example](variables-and-data-types/dictionary_example.py)
   - [Challenge 1](variables-and-data-types/challenge_1.py)
+
+### Strings, Splicing and Split
 
 <!-- ### Operators
 
