@@ -28,7 +28,7 @@ Learn about the different data types and how to use variables in Python.
 
 Learn about string manipulation in Python, focusing on string splicing and splitting techniques. These techniques are essential for processing and analyzing text data.
 
-- [Strings, Splicing and Split](variables-and-data-types/README.md)
+- [Strings, Splicing and Split](strings-splicing-and-split/README.md)
     - [String Method examples](strings-splicing-and-split/string_method_example.py)
 
 
