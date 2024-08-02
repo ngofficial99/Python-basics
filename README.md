@@ -6,8 +6,8 @@ Welcome to the Python Learning Resources repository! This repository is designed
 
 1. [Variables and Data Types](#variables-and-data-types)
 2. [Strings, Splicing and Split](#strings-splicing-and-split)
-<!-- 2. [Operators](#operators)
-3. [Control Flow](#control-flow)
+3. [Operators](#operators)
+<!-- 3. [Control Flow](#control-flow)
 4. [Challenge](#challenge) -->
 
 ### Variables and Data Types
@@ -32,7 +32,7 @@ Learn about string manipulation in Python, focusing on string splicing and split
     - [String Method examples](strings-splicing-and-split/string_method_example.py)
 
 
-<!-- ### Operators
+### Operators
 
 Understand the various operators available in Python.
 
@@ -43,7 +43,7 @@ Understand the various operators available in Python.
   - [Assignment Operators](operators/assignment_operators.py)
   - [Bitwise Operators](operators/bitwise_operators.py)
 
-### Control Flow
+<!-- ### Control Flow
 
 Control the flow of your programs using different control flow statements.
 
@@ -51,7 +51,7 @@ Control the flow of your programs using different control flow statements.
   - [If Statements](control-flow/if_statements.py)
   - [For Loops](control-flow/for_loops.py)
   - [While Loops](control-flow/while_loops.py)
-  - [Match-Case](control-flow/match_case.py) -->
+  - [Match-Case](control-flow/match_case.py) --> -->
 
 ### Challenge
 
