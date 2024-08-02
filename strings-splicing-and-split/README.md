@@ -4,9 +4,10 @@
 
 This folder contains examples and exercises related to string manipulation in Python, focusing on string splicing and splitting techniques. These techniques are essential for processing and analyzing text data.
 
-## Files
+## Table of Contents
 
 ### 1. `string_methods_example.py`
+### 2. `challenge_1.py`
 
 This script demonstrates various string methods in Python, including how to analyze and modify strings using user input. The following string methods are covered:
 
