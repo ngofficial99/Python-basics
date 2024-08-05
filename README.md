@@ -47,10 +47,12 @@ Understand the various operators available in Python.
 
 Conditional statements are used to perform different actions based on different conditions. Python provides several types of conditional statements, such as `if`, `elif`, and `else`.
 
--[Conditions](conditions/README.md)
+- [Conditions](conditions/README.md)
   - [If Else and ELIF statement](conditions/if_else_and_else_if_statement.py)
   - [If Else Statement with Logical operators](conditions/if_else_with_logical_operators.py)
   - [Nested If Else conditions](conditions/nested_conditions.py)
+  - [Challenge 1](conditions/challenge_1.py)
+  - [Challenge 2](conditions/challenge_2.py)
 
 
 <!-- ### Control Flow

@@ -7,6 +7,8 @@ Conditional statements are used to perform different actions based on different 
 1. [if_else_and_else_if_statement](#if_else_and_else_if_statement)
 2. [if_else_with_logical_operators.py](#If_Else_Statement_with_Logical_operators)
 3. [nested_conditions.py](#Nested_conditions)
+4. [challenge_1.py](#Challenge_1)
+5. [challenge_2.py](#Challenge_2)
 
 ### The `if` Statement
 The `if` statement is used to test a condition. If the condition is true, the code block following the `if` statement is executed. If the condition is false, the code block is skipped.
