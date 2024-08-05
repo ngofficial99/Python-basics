@@ -54,6 +54,16 @@ Conditional statements are used to perform different actions based on different 
   - [Challenge 1](conditions/challenge_1.py)
   - [Challenge 2](conditions/challenge_2.py)
 
+### Iterators (Loops)
+In Python, iterators are often used with loops to iterate through sequences such as lists, tuples, dictionaries, and other iterable objects. This folder contains examples and explanations of different types of loops and their usage in Python.
+
+- [Iterators](iterators/README.md)
+  - [Foor Loop Example](iterators/for_loop_example.py)
+  - [While Loop Example](iterators/while_loop_example.py)
+  - [Nested Loop Example](iterators/nested_loop.py)
+  - [Challenge 1](iterators/challenge_1.py)
+  - [Challenge 2](iterators/challenge_2.py)
+
 
 <!-- ### Control Flow
 
