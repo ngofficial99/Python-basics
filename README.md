@@ -43,6 +43,13 @@ Understand the various operators available in Python.
   - [Assignment Operators](operators/assignment_operators.py)
   - [Bitwise Operators](operators/bitwise_operators.py)
 
+### Conditions
+
+Conditional statements are used to perform different actions based on different conditions. Python provides several types of conditional statements, such as `if`, `elif`, and `else`.
+
+-[Conditions](conditions/README.md)
+
+
 <!-- ### Control Flow
 
 Control the flow of your programs using different control flow statements.
