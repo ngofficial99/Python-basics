@@ -4,9 +4,9 @@ Conditional statements are used to perform different actions based on different 
 
 ## Table of Contents
 
-1. [if_statement.py](#if_statementpy)
-2. [if_else_statement.py](#if_else_statementpy)
-3. [if_elif_else_statement.py](#if_elif_else_statementpy)
-4. [nested_if_statement.py](#nested_if_statementpy)
+1. [if_else_and_else_if_statement](#if_else_and_else_if_statement)
+2. [if_else_with_logical_operators.py](#If_Else_Statement_with_Logical_operators)
+3. [nested_conditions.py](#Nested_conditions)
+
 
 

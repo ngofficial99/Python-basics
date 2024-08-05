@@ -21,3 +21,21 @@ if adhaar_card==True or pan_card == True:
     print("you have the required document")
 else:
     print("You dont have the required documents")
+    
+
+#  We can also make use of NOT
+
+if not pan_card:
+    print("PLease apply for pancard")
+else:
+    print("You have a pancard great")
+    
+# Now one very important concept we have to know is the differenc ebetween '==' and is essentially they both compare two values but one checks the value and one check memory id
+
+a  = [1,2,3]
+b = [1,2,3]
+
+# This will give output as true
+print(a==b) 
+# And this will give output as false
+print(a is b)
