@@ -65,6 +65,15 @@ In Python, iterators are often used with loops to iterate through sequences such
   - [Challenge 2](iterators/challenge_2.py)
 
 ### Functions
+In Python, functions are reusable blocks of code that perform a specific task. Functions help in organizing code, making it more modular and easier to maintain. This folder contains examples and explanations of different types of functions and their usage in Python.
+
+- [Functions](functions/README.md)
+  - [Functions Example](functions/functions_example.py)
+  - [Nested Function Example](functions/nested_function_example.py)
+  - [Challenge 1](functions/challenge_1.py)
+  - [Challenge 2](functions/challenge_2.py)
+  - [Challenge 3](functions/challenge_3.py)
+
 
 
 <!-- ### Control Flow
