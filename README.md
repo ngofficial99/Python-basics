@@ -64,6 +64,8 @@ In Python, iterators are often used with loops to iterate through sequences such
   - [Challenge 1](iterators/challenge_1.py)
   - [Challenge 2](iterators/challenge_2.py)
 
+### Functions
+
 
 <!-- ### Control Flow
 
